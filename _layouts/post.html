@@ -22,6 +22,15 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+  
+   <!-- START OF RELEVANT PART -->
+  <div 
+    class="just-comments"
+    data-allowguests="true"
+    data-apikey="6252c695-7a57-4047-a8ec-d3dc445e2ca3">
+  </div>
+  <!-- END OF RELEVANT PART -->
+  
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
