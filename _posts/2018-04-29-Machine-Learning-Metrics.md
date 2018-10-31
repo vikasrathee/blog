@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Machine Learning Metrics"
-categories: Data Science
+categories: "Data Science"
 author: "Vikas Rathee"
 ---
 
-# Machine Learning Metrics
+Machine Learning Metrics
 
 
-## Regression:
+### Regression:
 
 Some common metrics used for measuring model effectiveness on regression problems:
 
@@ -24,4 +24,5 @@ Why is Residual Analysis Important?
 How to make the Regression model statistically significant:
 
 
-## Classification:
+### Classification:
+
